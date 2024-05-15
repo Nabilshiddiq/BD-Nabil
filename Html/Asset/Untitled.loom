@@ -1,0 +1,211 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "25d66237-1dce-4432-bc00-edaedf6f0364",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Nama",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "576001b3-856c-45a6-99b4-49491c2817cc",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Kelas",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "be85c437-f591-4a1b-9dd4-74a09834688a",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Tempat tinggal",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "9819e96d-740c-409f-9339-43f131feafe5",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "New Column",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      }
+    ],
+    "rows": [
+      {
+        "id": "f293d007-5625-4cb8-ae04-c64cbf5faf52",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2024-01-23T03:25:54.660Z",
+        "lastEditedDateTime": "2024-01-23T03:28:59.344Z",
+        "cells": [
+          {
+            "id": "ff79def1-4050-4045-bac0-e4d21b997a96",
+            "columnId": "25d66237-1dce-4432-bc00-edaedf6f0364",
+            "content": "1",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6ea87ef3-060a-4274-8e85-2b1984fd670a",
+            "columnId": "576001b3-856c-45a6-99b4-49491c2817cc",
+            "content": "Rehan",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "58a3e1d4-9ccb-4af6-ba9c-f4e904fd25c7",
+            "columnId": "be85c437-f591-4a1b-9dd4-74a09834688a",
+            "content": "11 Rpl 1",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "24013d1f-a4af-4443-860d-d1f07920c1ea",
+            "columnId": "9819e96d-740c-409f-9339-43f131feafe5",
+            "content": "Bulusaraung",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "608ba20e-7665-4909-a60d-72dabcb62133",
+        "index": 1,
+        "sourceId": null,
+        "creationDateTime": "2024-01-23T03:15:47.620Z",
+        "lastEditedDateTime": "2024-01-23T03:29:02.825Z",
+        "cells": [
+          {
+            "id": "77bc499f-2274-44ae-8c39-28065d358216",
+            "columnId": "25d66237-1dce-4432-bc00-edaedf6f0364",
+            "content": "2",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "292d6740-1873-4efc-8bb8-530ae5015469",
+            "columnId": "576001b3-856c-45a6-99b4-49491c2817cc",
+            "content": "Padil",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a028b6f6-bf05-4fc8-8fde-c7f27f53786c",
+            "columnId": "be85c437-f591-4a1b-9dd4-74a09834688a",
+            "content": "11 Rpl 1",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0a1e485b-511f-406f-ae39-f0edbfbcc1d2",
+            "columnId": "9819e96d-740c-409f-9339-43f131feafe5",
+            "content": "Maccini",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "f697c485-d8aa-4647-a3b6-4185eed0238e",
+        "index": 2,
+        "sourceId": null,
+        "creationDateTime": "2024-01-23T03:15:48.730Z",
+        "lastEditedDateTime": "2024-01-23T03:29:31.831Z",
+        "cells": [
+          {
+            "id": "3cf326a5-a03a-482e-ad79-f74257254525",
+            "columnId": "25d66237-1dce-4432-bc00-edaedf6f0364",
+            "content": "3",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8f17ac27-22ec-4c0d-9767-edb8d7893d18",
+            "columnId": "576001b3-856c-45a6-99b4-49491c2817cc",
+            "content": "11 Rpl 1",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7483549a-4b9a-46be-a530-e0e20ccf366c",
+            "columnId": "be85c437-f591-4a1b-9dd4-74a09834688a",
+            "content": "11 Rpl 1",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8d55833d-3815-4f8e-9042-4f300575a225",
+            "columnId": "9819e96d-740c-409f-9339-43f131feafe5",
+            "content": "Malengkeri",
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.15.11"
+}
