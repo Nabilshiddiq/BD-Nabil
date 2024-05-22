@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BD Hayril/PEMBELAJARAN 5.md",
+                "file": "Css/PHP Mysql.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "BD Hayril/PEMBELAJARAN 5.md",
+            "file": "Css/PHP Mysql.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "BD Hayril/PEMBELAJARAN 5.md",
+            "file": "Css/PHP Mysql.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "BD Hayril/PEMBELAJARAN 5.md"
+            "file": "Css/PHP Mysql.md"
           }
         }
       }
@@ -142,11 +142,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b75fbf66a06e3f8e",
+  "active": "af5d35e27fa6089a",
   "lastOpenFiles": [
-    "BD Hayril/PEMBELAJARAN 4.md",
     "Css/PHP.md",
+    "Css/PHP Mysql.md",
+    "Tgs Basisdata/PEMBELAJARAN 5.md",
+    "PHP Mysql/Untitled.md",
     "Materi grid/Aset/9.jpg.jpg",
+    "PHP Mysql",
+    "Tgs Basisdata/PEMBELAJARAN 4.md",
     "Catatan HTML.md",
     "Untitled 1",
     "Css/Remed Pesona indo.md",
@@ -180,13 +184,9 @@
     "Html/Asset/Pengantar web.md",
     "Grid.md",
     "Css/Position.md",
-    "Untitled/Place-self.md",
-    "Untitled/Align-self.md",
-    "Untitled/Justify-self.md",
     "Untitled 2",
     "Materi grid/Catatan grid/Untitled.canvas",
     "Materi grid/Catatan grid/Untitled",
-    "Untitled",
     "Materi grid/Aset",
     "Materi grid/Catatan grid",
     "Materi grid",
