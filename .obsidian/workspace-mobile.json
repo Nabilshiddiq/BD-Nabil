@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Css/PHP Mysql.md",
+                "file": "Html/Data Base 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Css/PHP Mysql.md",
+            "file": "Html/Data Base 2.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Css/PHP Mysql.md",
+            "file": "Html/Data Base 2.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Css/PHP Mysql.md"
+            "file": "Html/Data Base 2.md"
           }
         }
       }
@@ -142,20 +142,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af5d35e27fa6089a",
+  "active": "b75fbf66a06e3f8e",
   "lastOpenFiles": [
-    "Css/PHP.md",
-    "Css/PHP Mysql.md",
-    "Tgs Basisdata/PEMBELAJARAN 5.md",
-    "PHP Mysql/Untitled.md",
-    "Materi grid/Aset/9.jpg.jpg",
-    "PHP Mysql",
-    "Tgs Basisdata/PEMBELAJARAN 4.md",
-    "Catatan HTML.md",
-    "Untitled 1",
+    "3. PHP - Copy/PHP Dasar.md",
+    "Html/Data Base 2.md",
     "Css/Remed Pesona indo.md",
-    "IMG-20240515-WA0001.jpg",
+    "Tgs Basisdata/PEMBELAJARAN 4.md",
     "Html/BASIS DATA.md",
+    "Instalasi & Query awal data base.md",
+    "Tgs Basisdata/PEMBELAJARAN 5.md",
+    "Html/Asset/Analisis Program ujian.md",
+    "Html/Analisis ujian.md",
+    "Html/Pemrograman web.md",
+    "Catatan HTML.md",
+    "Html/Lanjutan select.md",
+    "Css/Pesona.jpg.jpg",
+    "Css/PHP Mysql.md",
+    "Pesona.jgp 1.jpg",
+    "Pesona.jgp 2.jpg",
+    "Materi grid/Aset/9.jpg.jpg",
+    "Css/PHP.md",
+    "PHP Mysql/Untitled.md",
+    "PHP Mysql",
+    "Untitled 1",
     "Css/css nabil.md",
     "Css/angga.jpg",
     "Css/Untitled",
@@ -169,21 +178,12 @@
     "assets/btc-94.png",
     "assets/btc-93.png",
     "assets/btc-92.png",
-    "assets/btc-91.png",
-    "assets/btc-90.png",
     "assets",
     "Html/Semantic Html.md",
     "Css/Pengenalan css.md",
     "Css/Css Responsive.md",
     "Materi grid/CATATAN GRID.md",
     "Basis data/CATATAN SELECT.md",
-    "Basis data/CATATAN ALTER.md",
-    "Html/Data Base 2.md",
-    "Instalasi & Query awal data base.md",
-    "Html/DIV-SPAN.md",
-    "Html/Asset/Pengantar web.md",
-    "Grid.md",
-    "Css/Position.md",
     "Untitled 2",
     "Materi grid/Catatan grid/Untitled.canvas",
     "Materi grid/Catatan grid/Untitled",

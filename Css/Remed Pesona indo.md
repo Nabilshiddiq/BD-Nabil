@@ -792,6 +792,37 @@
 
   }*/
 ```
-# Hasil
 
-![[IMG-20240515-WA0001.jpg]]
+# Hasil
+![[Pesona.jpg.jpg]]
+
+
+
+
+# Analisis 
+## Html
+Struktur Umum:
+
+Program dimulai dengan tag <!DOCTYPE html> yang menunjukkan jenis dokumen HTML yang digunakan.
+Di dalam tag <html>, ada bagian <head> yang berisi informasi tentang dokumen, seperti judul halaman dan referensi ke file CSS.
+Bagian utama konten dimulai di dalam tag <body>.
+CSS:
+
+Gaya (CSS) didefinisikan baik dalam tag <head> sebagai file eksternal (pesonaindonesiaa.css) dan secara internal menggunakan tag <style>.
+Konten:
+
+Ada tiga bagian utama yang terlihat: navigasi, berita, dan bagian "About".
+Navigasi terdiri dari tautan menu seperti "Beranda", "Berita", dan "About".
+Bagian berita menampilkan gambar dan deskripsi singkat tentang tempat-tempat wisata di Indonesia, seperti Pantai Kuta dan Gunung Bromo.
+Bagian "About" berisi deskripsi umum tentang Indonesia, dilengkapi dengan gambar.
+HTML Elements:
+
+Beberapa elemen HTML yang digunakan termasuk <div>, <h1>, <p>, <img>, dan <button>.
+Setiap elemen digunakan untuk menentukan struktur dan tampilan halaman web.
+Tombol dan Tautan:
+
+Ada tombol yang mengarah pada lebih banyak informasi dengan teks "Baca Selengkapnya".
+Ada juga tautan yang mungkin digunakan untuk navigasi di situs web.
+
+
+

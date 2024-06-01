@@ -33,7 +33,7 @@ MariaDB [rental_Nabil]> create table pelanggan
 
 ## contoh tabel
 
-
+2
 ![[IMG-20240130-WA0021.jpg]]
 
 
