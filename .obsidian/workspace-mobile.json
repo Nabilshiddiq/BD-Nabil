@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Html/Data Base 2.md",
+                "file": "Pratikum/Tantangan.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,8 +83,7 @@
           "state": {}
         }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "right": {
     "id": "1c6bd62ec6bb7429",
@@ -96,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Html/Data Base 2.md",
+            "file": "Pratikum/Tantangan.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Html/Data Base 2.md",
+            "file": "Pratikum/Tantangan.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Html/Data Base 2.md"
+            "file": "Pratikum/Tantangan.md"
           }
         }
       }
@@ -144,8 +143,9 @@
   },
   "active": "b75fbf66a06e3f8e",
   "lastOpenFiles": [
-    "3. PHP - Copy/PHP Dasar.md",
     "Html/Data Base 2.md",
+    "Grid css/IMG-20240414-WA0010.jpg",
+    "3. PHP - Copy/PHP Dasar.md",
     "Css/Remed Pesona indo.md",
     "Tgs Basisdata/PEMBELAJARAN 4.md",
     "Html/BASIS DATA.md",
@@ -177,13 +177,11 @@
     "assets/btc-95.png",
     "assets/btc-94.png",
     "assets/btc-93.png",
-    "assets/btc-92.png",
     "assets",
     "Html/Semantic Html.md",
     "Css/Pengenalan css.md",
     "Css/Css Responsive.md",
     "Materi grid/CATATAN GRID.md",
-    "Basis data/CATATAN SELECT.md",
     "Untitled 2",
     "Materi grid/Catatan grid/Untitled.canvas",
     "Materi grid/Catatan grid/Untitled",
