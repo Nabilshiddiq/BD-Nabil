@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pratikum/Tantangan.md",
+                "file": "REMEDIAL BASIS DATA/Remedial.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +83,8 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "right": {
     "id": "1c6bd62ec6bb7429",
@@ -95,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Pratikum/Tantangan.md",
+            "file": "REMEDIAL BASIS DATA/Remedial.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Pratikum/Tantangan.md",
+            "file": "REMEDIAL BASIS DATA/Remedial.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Pratikum/Tantangan.md"
+            "file": "REMEDIAL BASIS DATA/Remedial.md"
           }
         }
       }
@@ -143,6 +144,7 @@
   },
   "active": "b75fbf66a06e3f8e",
   "lastOpenFiles": [
+    "Pratikum/Tantangan.md",
     "Html/Data Base 2.md",
     "Grid css/IMG-20240414-WA0010.jpg",
     "3. PHP - Copy/PHP Dasar.md",
