@@ -271,7 +271,6 @@ mempelajari CSS Grid membantu anda untuk membuat tata letak halaman web yang leb
 #### Hasil Program
 ![hasil program grid template areas](6.png)
 
----
 ### grid-template
 #### Penjelasan
 `grid-template` adalah singkatan dari gabungan tiga properti dalam CSS Grid Layout: `grid-template-rows`, `grid-template-columns`, dan `grid-template-areas`. Properti ini digunakan untuk mendefinisikan tata letak grid secara lengkap dalam satu deklarasi.

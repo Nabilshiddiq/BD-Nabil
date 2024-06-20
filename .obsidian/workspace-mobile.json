@@ -21,14 +21,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PRAKTIKUM 7/PRAKTIKUM 7.md",
+                "file": "Css/Remed Pesona indo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b604d1e9934ee87a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e24dc4b81bbe0d32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Html/Catatan HTML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35703895c08ccb2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Html/Remed Html.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -94,7 +130,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "PRAKTIKUM 7/PRAKTIKUM 7.md",
+            "file": "Html/Remed Html.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +147,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "PRAKTIKUM 7/PRAKTIKUM 7.md",
+            "file": "Html/Remed Html.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +159,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "PRAKTIKUM 7/PRAKTIKUM 7.md"
+            "file": "Html/Remed Html.md"
           }
         }
       }
@@ -140,11 +176,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af5d35e27fa6089a",
+  "active": "35703895c08ccb2a",
   "lastOpenFiles": [
+    "Css/Remed Pesona indo.md",
+    "Html/Remed Html.md",
+    "Html/Catatan HTML.md",
+    "Asetremed/Li.md",
+    "Asetremed",
+    "Aset.md",
+    "Html/Asetremed",
+    "Untitled",
+    "Html",
+    "Instalasi & Query awal data base.md",
+    "Untitled.md",
+    "Html/Untitled.md",
+    "Html/Pemrograman web.md",
+    "Html/Data Base 2.md",
+    "Html/BASIS DATA.md",
+    "Remed html/Untitled.md",
+    "Remed html",
+    "Css/assets/Pesona.jpg",
+    "EKSPLORASI CSS (Grid)/CSS GRID.md",
+    "Css/css nabil.md",
     "Pratikum/Tantangan.md",
     "Tgs Basisdata/PEMBELAJARAN 4.md",
-    "EKSPLORASI CSS (Grid)/CSS GRID.md",
     "EKSPLORASI CSS (Grid)/Assets/9.png",
     "EKSPLORASI CSS (Grid)/Assets/8.png",
     "EKSPLORASI CSS (Grid)/Assets/7.png",
@@ -154,39 +209,21 @@
     "EKSPLORASI CSS (Grid)/Assets/3.png",
     "EKSPLORASI CSS (Grid)/Assets/26.png",
     "EKSPLORASI CSS (Grid)/Assets/25.png",
-    "EKSPLORASI CSS (Grid)/Assets/24.png",
     "EKSPLORASI CSS (Grid)/Assets",
     "EKSPLORASI CSS (Grid)",
-    "Css/css nabil.md",
-    "Html/BASIS DATA.md",
     "3. PHP - Copy/PHP Dasar.md",
     "Css/Bootstrap Framework.md",
-    "Instalasi & Query awal data base.md",
-    "Html/Data Base 2.md",
     "REMEDIAL BASIS DATA/Remedial.md",
-    "Html/Pemrograman web.md",
     "Html/Pembuatan web.md",
     "Html/Lanjutan select.md",
     "Tgs Basisdata/PEMBELAJARAN 5.md",
     "CSS GRID.md",
-    "Catatan HTML.md",
     "PRAKTIKUM 7/PRAKTIKUM 7.md",
     "Html/Asset/Analisis Program ujian.md",
     "Materi grid/CATATAN GRID.md",
-    "Html/Semantic Html.md",
-    "Css/Remed Pesona indo.md",
-    "Html/Asset/Pengantar web.md",
-    "Html/Analisis ujian.md",
-    "Html/DIV-SPAN.md",
-    "Css/PHP.md",
     "PHP Mysql",
-    "Untitled 1",
     "Css/Untitled",
     "assets",
-    "Untitled 2",
-    "Materi grid/Catatan grid/Untitled.canvas",
-    "Materi grid/Catatan grid/Untitled",
-    "Materi grid/Aset",
-    "Materi grid/Catatan grid"
+    "Materi grid/Catatan grid/Untitled.canvas"
   ]
 }
