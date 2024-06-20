@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pratikum/Tantangan.md",
+                "file": "PRAKTIKUM 7/PRAKTIKUM 7.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Pratikum/Tantangan.md",
+            "file": "PRAKTIKUM 7/PRAKTIKUM 7.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Pratikum/Tantangan.md",
+            "file": "PRAKTIKUM 7/PRAKTIKUM 7.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Pratikum/Tantangan.md"
+            "file": "PRAKTIKUM 7/PRAKTIKUM 7.md"
           }
         }
       }
@@ -142,6 +142,21 @@
   },
   "active": "af5d35e27fa6089a",
   "lastOpenFiles": [
+    "Pratikum/Tantangan.md",
+    "Tgs Basisdata/PEMBELAJARAN 4.md",
+    "EKSPLORASI CSS (Grid)/CSS GRID.md",
+    "EKSPLORASI CSS (Grid)/Assets/9.png",
+    "EKSPLORASI CSS (Grid)/Assets/8.png",
+    "EKSPLORASI CSS (Grid)/Assets/7.png",
+    "EKSPLORASI CSS (Grid)/Assets/6.png",
+    "EKSPLORASI CSS (Grid)/Assets/5.png",
+    "EKSPLORASI CSS (Grid)/Assets/4.png",
+    "EKSPLORASI CSS (Grid)/Assets/3.png",
+    "EKSPLORASI CSS (Grid)/Assets/26.png",
+    "EKSPLORASI CSS (Grid)/Assets/25.png",
+    "EKSPLORASI CSS (Grid)/Assets/24.png",
+    "EKSPLORASI CSS (Grid)/Assets",
+    "EKSPLORASI CSS (Grid)",
     "Css/css nabil.md",
     "Html/BASIS DATA.md",
     "3. PHP - Copy/PHP Dasar.md",
@@ -151,14 +166,11 @@
     "REMEDIAL BASIS DATA/Remedial.md",
     "Html/Pemrograman web.md",
     "Html/Pembuatan web.md",
-    "Tgs Basisdata/PEMBELAJARAN 4.md",
     "Html/Lanjutan select.md",
     "Tgs Basisdata/PEMBELAJARAN 5.md",
-    "EKSPLORASI CSS (Grid)/CSS GRID.md",
     "CSS GRID.md",
     "Catatan HTML.md",
     "PRAKTIKUM 7/PRAKTIKUM 7.md",
-    "Pratikum/Tantangan.md",
     "Html/Asset/Analisis Program ujian.md",
     "Materi grid/CATATAN GRID.md",
     "Html/Semantic Html.md",
@@ -167,27 +179,14 @@
     "Html/Analisis ujian.md",
     "Html/DIV-SPAN.md",
     "Css/PHP.md",
-    "Css/PHP Mysql.md",
-    "Materi grid/Aset/9.jpg.jpg",
-    "Grid css/IMG-20240414-WA0010.jpg",
-    "Css/Pesona.jpg.jpg",
-    "Pesona.jgp 1.jpg",
-    "Pesona.jgp 2.jpg",
     "PHP Mysql",
     "Untitled 1",
-    "Css/angga.jpg",
     "Css/Untitled",
-    "assets/laravel-7.png",
-    "assets/btc-95.png",
-    "assets/btc-94.png",
-    "assets/btc-93.png",
     "assets",
     "Untitled 2",
     "Materi grid/Catatan grid/Untitled.canvas",
     "Materi grid/Catatan grid/Untitled",
     "Materi grid/Aset",
-    "Materi grid/Catatan grid",
-    "Materi grid",
-    "Grid css"
+    "Materi grid/Catatan grid"
   ]
 }

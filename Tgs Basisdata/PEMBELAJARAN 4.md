@@ -11,7 +11,7 @@ CONTOH:
 ```
 
 HASIL:
-![GAMBAR](GAMBARBASDAT/and.png)
+![GAMBAR](and.png)
 
 ANALISIS:
 - **SELECT** adalah sebuah perintah query yang tugas memilih.
@@ -39,7 +39,7 @@ CONTOH:
 ```
 
 HASIL:
-![GAMBAR](GAMBARBASDAT/OR.PNG)
+![GAMBAR](or.png)
 ANALISIS:
 - **SELECT** adalah sebuah perintah query yang tugas memilih.
 - **WARNA** adalah sebuah nama kolom pada tabel mobil.
@@ -65,7 +65,7 @@ CONTOH:
 ```
 
 HASIL:
-![GAMBAR](GAMBARBASDAT/BETWEENAND.png)
+![GAMBAR](BETWEENAND.png)
 
 KESIMPULAN:
 
@@ -94,7 +94,7 @@ SELECT * FROM mobil WHERE harga_rental NOT BETWEEN 100000 AND 200000;
 ```
 
 HASIL:
-![gambar](GAMBARBASDAT/notbetween.png)
+![gambar](notbetween.png)
 
 ANALISIS:
 - **SELECT** adalah sebuah perintah query yang tugas memilih.
@@ -124,7 +124,7 @@ SELECT * FROM mobil WHERE harga_rental <= 50000;
 ```
 
 HASIL:
-![gambar](GAMBARBASDAT/kecilsama.png)
+![gambar](kecilsama.png)
 
 ANALISIS:
 - **SELECT** adalah sebuah perintah query yang tugas memilih.
@@ -151,7 +151,7 @@ SELECT * FROM mobil WHERE harga_rental >= 50000;
 ```
 
 HASIL:
-![gambar](GAMBARBASDAT/besarsama.png)
+![gambar](besarsama.png)
 ANALISIS:
 - **SELECT** adalah sebuah perintah query yang tugas memilih.
 - **FROM** adalah sebuah perintah query yang tugas nya untuk pemanggilan dari.
@@ -176,7 +176,7 @@ SELECT * FROM mobil WHERE harga_rental <> 50000;
 ```
 
 HASIL:
-![gambar](GAMBARBASDAT/tidaksama.png)
+![gambar](tidaksama.png)
 ANALISIS:
 - **SELECT** adalah sebuah perintah query yang tugas memilih.
 - **FROM** adalah sebuah perintah query yang tugas nya untuk pemanggilan dari.
@@ -190,7 +190,7 @@ KESIMPULAN: query diatas adalah perintah untuk menampilkan sebuah data dari tabe
 
 ## Tantangan
 Untuk tantangan saya akan mengambil nama pemilik "baim" dengan cara memanggilnya dengan syarat nomor pelatnya yaitu "B 1611 QC" lalu hasilnya akan seperti berikut :
-![GAMBAR](GAMBARBASDAT/tantangan.png)
+![GAMBAR](tantangan.png)
 
 ## IN 
 
@@ -205,7 +205,7 @@ CONTOH:
 ```
 
 HASIL:
-![GAMBAR](GAMBARBASDAT/IN.PNG)
+![GAMBAR](IN.png)
 
 ANALISIS:
 - **SELECT** adalah sebuah perintah query yang tugas memilih.
@@ -235,7 +235,7 @@ CONTOH:
 ```
 
 HASIL:
-![GAMBAR](GAMBARBASDAT/INAND.PNG)
+![GAMBAR](INAND.png)
 
 ANALISIS:
 - **SELECT** adalah sebuah perintah query yang tugas memilih.
@@ -268,7 +268,7 @@ CONTOH:
 ```
 
 HASIL:
-![GAMBAR](GAMBARBASDAT/INOR.PNG)
+![GAMBAR](INOR.png)
 
 ANALISIS:
 - **SELECT** adalah sebuah perintah query yang tugas memilih.
@@ -313,7 +313,7 @@ select * from data_mobil
 ```
 
 HASIL:
-![GAMBAR](GAMBARBASDAT/INOPERATOR.PNG)
+![GAMBAR](INOPERATOR.png)
 
 ANALISIS:
 - **SELECT** adalah sebuah perintah query yang tugas memilih.
@@ -348,7 +348,7 @@ CONTOH:
     -> where pemilik like 'ib%';
 ```
 HASIL:
-![GAMBAR](GAMBARBASDAT/LIKEAWAL.PNG)
+![GAMBAR](LIKEAWAL.png)
 ANALISIS:
  - **SELECT** adalah sebuah perintah query yang tugas memilih.
 - **FROM** adalah sebuah perintah query yang tugas nya untuk pemanggilan dari.
@@ -371,7 +371,7 @@ CONTOH:
     -> where pemilik like '%M';
 ```
 HASIL:
-![GAMBAR](GAMBARBASDAT/LIKEAKHIR.PNG)
+![GAMBAR](LIKEAKHIR.png)
 ANALISIS:
  - **SELECT** adalah sebuah perintah query yang tugas memilih.
 - **FROM** adalah sebuah perintah query yang tugas nya untuk pemanggilan dari.
@@ -394,7 +394,7 @@ CONTOH:
     -> where pemilik like 'B%M';
 ```
 HASIL:
-![GAMBAR](GAMBARBASDAT/LIKEAWALAKHIR.PNG)
+![GAMBAR](LIKEAWALAKHIR.png)
 ANALISIS:
  - **SELECT** adalah sebuah perintah query yang tugas memilih.
 - **FROM** adalah sebuah perintah query yang tugas nya untuk pemanggilan dari.
@@ -417,7 +417,7 @@ select * from data_mobil
     -> where pemilik like 'i__';
 ```
 HASIL:
-![GAMBAR](GAMBARBASDAT/LIKEKARAKTER.PNG)
+![GAMBAR](LIKEKARAKTER.png)
 ANALISIS:
  - **SELECT** adalah sebuah perintah query yang tugas memilih.
 - **FROM** adalah sebuah perintah query yang tugas nya untuk pemanggilan dari.
@@ -441,7 +441,7 @@ SELECT * FROM DATA_MOBIL
 -> WHERE PEMILIK LIKE '__R%';
 ```
 HASIL:
-![GAMBAR](GAMBARBASDAT/LIKEKOMBINASI.PNG)
+![GAMBAR](LIKEKOMBINASI.png)
 ANALISIS:
 - **SELECT** adalah sebuah perintah query yang tugas memilih.
 - **FROM** adalah sebuah perintah query yang tugas nya untuk pemanggilan dari.
@@ -463,7 +463,7 @@ CONTOH:
  SELECT * FROM DATA_MOBIL WHERE PEMINJAM NOT LIKE 'A%';
 ```
 HASIL:
-![GAMBAR](GAMBARBASDAT/NOTLIKE.PNG)
+![GAMBAR](NOTLIKE.png)
 ANALISIS:
  - **SELECT** adalah sebuah perintah query yang tugas memilih.
 - **FROM** adalah sebuah perintah query yang tugas nya untuk pemanggilan dari.
@@ -486,7 +486,7 @@ CONTOH:
  SELECT * FROM DATA_MOBIL WHERE PEMINJAM IS NOT NULL;
 ```
 HASIL:
-![GAMBAR](GAMBARBASDAT/NULL.PNG)
+![GAMBAR](NULL.png)
 ANALISIS:
  - **SELECT** adalah sebuah perintah query yang tugas memilih.
 - **FROM** adalah sebuah perintah query yang tugas nya untuk pemanggilan dari.
@@ -507,7 +507,7 @@ CONTOH:
  SELECT * FROM DATA_MOBIL WHERE PEMINJAM IS NOT NULL;
 ```
 HASIL:
-![GAMBAR](GAMBARBASDAT/NOTNULL.PNG)
+![GAMBAR](NOTNULL.png)
 ANALISIS:
  - **SELECT** adalah sebuah perintah query yang tugas memilih.
 - **FROM** adalah sebuah perintah query yang tugas nya untuk pemanggilan dari.
@@ -531,7 +531,7 @@ CONTOH:
  SELECT * FROM DATA_MOBIL ORDER BY PEMILIK ASC;
 ```
 HASIL:
-![GAMBAR](GAMBARBASDAT/ASC.PNG)
+![GAMBAR](ASC.png)
 ANALISIS:
  - **SELECT** adalah sebuah perintah query yang tugas memilih.
 - **FROM** adalah sebuah perintah query yang tugas nya untuk pemanggilan dari.
@@ -552,7 +552,7 @@ CONTOH:
  SELECT * FROM DATA_MOBIL ORDER BY PEMILIK DESC;
 ```
 HASIL:
-![GAMBAR](GAMBARBASDAT/DESC.PNG)
+![GAMBAR](DESC.png)
 ANALISIS:
  - **SELECT** adalah sebuah perintah query yang tugas memilih.
 - **FROM** adalah sebuah perintah query yang tugas nya untuk pemanggilan dari.
@@ -573,7 +573,7 @@ CONTOH:
  SELECT * FROM DATA_MOBIL ORDER BY PEMILIK ASC;
 ```
 HASIL:
-![GAMBAR](GAMBARBASDAT/ASC.PNG)
+![GAMBAR](ASC.png)
 ANALISIS:
  - **SELECT** adalah sebuah perintah query yang tugas memilih.
 - **FROM** adalah sebuah perintah query yang tugas nya untuk pemanggilan dari.
@@ -597,7 +597,7 @@ SELECT * FROM DATA_MOBIL WHERE WARNA="HITAM" ORDER BY HARGA_RENTAL ASC LIMIT 2;
 ```
 
 HASIL:
-![GAMBAR](GAMBARBASDAT/LIMIT.PNG)
+![GAMBAR](LIMIT.png)
 ANALISIS:
  - **SELECT** adalah sebuah perintah query yang tugas memilih.
 - **FROM** adalah sebuah perintah query yang tugas nya untuk pemanggilan dari.
@@ -625,7 +625,7 @@ SELECT DISTINCT(PEMILIK) FROM DATA_MOBIL;
 ```
 
 HASIL:
-![GAMBAR](GAMBARBASDAT/DISTINCT.PNG)
+![GAMBAR](DISTINCT.png)
 
 ANALISIS:
 - **SELECT** adalah perintah query yang tugas nya memilih.
@@ -651,7 +651,7 @@ SELECT CONCAT(PEMILIK,WARNA) FROM DATA_MOBIL;
 ```
 
 HASIL:
-![GAMBAR](GAMBARBASDAT/CONCAT.PNG)
+![GAMBAR](CONCAT.png)
 ANALISIS:
 - **SELECT** adalah perintah query yang tugas nya memilih.
 - **CONCAT** adalah perintah untuk menggabungkan sebuah kolom untuk ditampilkan.
@@ -673,7 +673,7 @@ SELECT CONCAT_WS ("-",NO_PLAT,NO_MESIN,ID_MOBIL) FROM DATA_MOBIL;
 ```
 
 HASIL:
-![GAMBAR](GAMBARBASDAT/CONCAT_WS.PNG)
+![GAMBAR](CONCAT_WS.png)
 ANALISIS:
 - **SELECT** adalah perintah query yang tugas nya memilih.
 - **CONCAT_WS** adalah perintah untuk menggabungkan nilai nilai sebuah kolom dan memiliki pemisah tertentu untuk ditampilkan.
@@ -696,7 +696,7 @@ SELECT CONCAT_WS ("+",PEMILIK,PEMINJAM) FROM DATA_MOBIL;
 ```
 
 HASIL:
-![GAMBAR](GAMBARBASDAT/AS.PNG)
+![GAMBAR](AS.png)
 ANALISIS:
 - **SELECT** adalah perintah query yang tugas nya memilih.
 - **CONCAT_WS** adalah perintah untuk menggabungkan nilai nilai sebuah kolom dan memiliki pemisah tertentu untuk ditampilkan.
@@ -726,7 +726,7 @@ WHERE PEMILIK="IBRAHIM";
 ```
 
 HASIL:
-![GAMBAR](GAMBARBASDAT/BUATTABELVIRTUAL.PNG)
+![GAMBAR](BUATTABELVIRTUAL.png)
 ANALISIS:
 - **SELECT** adalah perintah query yang tugas nya memilih.
 - **CREATE VIEW** adalah perintah untuk membuat sebuah tabel virtual
@@ -750,7 +750,7 @@ SELECT * FROM INFO_NO_PLAT;
 ```
 
 HASIL:
-![GAMBAR](GAMBARBASDAT/TABELVIRTUAL.PNG)
+![GAMBAR](TABELVIRTUAL.png)
 ANALISIS:
 - **SELECT** adalah perintah query yang tugas nya memilih.
 - **FROM** adalah perintah query dari.
@@ -770,7 +770,7 @@ DROP VIEW INFO_NO_PLAT;
 ```
 
 HASIL:
-![GAMBAR](GAMBARBASDAT/DROPVIRTUAL.PNG)
+![GAMBAR](DROPVIRTUAL.png)
 ANALISIS:
 	query di atas adalah perintah untuk menghapus tabel yang telah dibuat tadi.
 
@@ -785,7 +785,7 @@ CONTOH:
 SELECT SUM(HARGA_RENTAL) AS TOTAL_HARGA FROM DATA_MOBIL;
 ```
 HASIL:
-![GAMBAR](GAMBARBASDAT/SUM.PNG)
+![GAMBAR](SUM.png)
 ANALISIS:
 - **SELECT** adalah perintah untuk memilih suatu kolom 
 - **SUM** adalah perintah untuk menghitung semua total jumlah
@@ -805,7 +805,7 @@ CONTOH:
 SELECT COUNT(PEMILIK) AS JUMLAH_PEMILIK FROM DATA_MOBIL;
 ```
 HASIL:
-![GAMBAR](GAMBARBASDAT/COUNT.PNG)
+![GAMBAR](COUNT.png)
 ANALISIS:
 - **SELECT** adalah perintah untuk memilih suatu kolom 
 - **COUNT** adalah perintah untuk menghitung semua jumlah baris.
@@ -826,7 +826,7 @@ CONTOH:
 SELECT MIN(HARGA_RENTAL) AS MINIMUM FROM DATA_MOBIL;
 ```
 HASIL:
-![GAMBAR](GAMBARBASDAT/MIN.PNG)
+![GAMBAR](MIN.png)
 ANALISIS:
 - **SELECT** adalah perintah untuk memilih suatu kolom 
 - **MIN** adalah perintah untuk menghitung jumlah data yang paling terkecil.
@@ -846,7 +846,7 @@ CONTOH:
 SELECT MAX(HARGA_RENTAL) AS MAXIMUM FROM DATA_MOBIL;
 ```
 HASIL:
-![GAMBAR](GAMBARBASDAT/MAX.PNG)
+![GAMBAR](MAX.png)
 ANALISIS:
 - **SELECT** adalah perintah untuk memilih suatu kolom 
 - **MAX** adalah perintah untuk menghitung data yang paling tinggi.
@@ -866,7 +866,7 @@ CONTOH:
 SELECT AVG(HARGA_RENTAL) AS RERATA FROM DATA_MOBIL;
 ```
 HASIL:
-![GAMBAR](GAMBARBASDAT/SUM.PNG)
+![GAMBAR](SUM.png)
 ANALISIS:
 - **SELECT** adalah perintah untuk memilih suatu kolom 
 - **AVG** adalah perintah untuk menghitung jumlah rata rata

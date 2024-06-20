@@ -9,14 +9,14 @@ ALTER TABLE mobil ADD batas_peminjaman varchar(10) AFTER peminjam
 - silahkan tampilkan struktur tabel dan masukkan data ke kolom batas_peminjaman.
 
 HASIL:
-![GAMBAR](GAMBARBASDAT/mengubahalter.png)
+![GAMBAR](mengubahalter.png)
 Setelah menambahkan kolom kita dapat mengisi kolom tersebut dengan query:
 ```mysql
  update mobil set batas_peminjam="28-12-2024" where id_mobil>3;
 ```
 
 HASIL:
-![GAMBAR](GAMBARBASDAT/updatealter.png)
+![GAMBAR](updatealter.png)
 
 MENGUBAH NAMA KOLOM
 ```mysql
@@ -25,7 +25,7 @@ ALTER TABLE mobil CHANGE batas_peminjam deadline VARCHAR(10);
 
 - **RENAME COLUMN:** digunakan pada mysql versi lawas yang mengharuskan menyertakan tipe datanya juga.
 HASIL:
-![GAMBAR](GAMBARBASDAT/renamealter.png)
+![GAMBAR](renamealter.png)
 
 MENGUBAH TIPE DATA KOLOM 
 ```MYSQL 
@@ -33,7 +33,7 @@ ALTER TABLE mobil MODIFY deadline DATE;
 ```
 
 HASIL:
-![GAMBAR](GAMBARBASDAT/modifydate.png)
+![GAMBAR](modifydate.png)
 MENAMBAHKAN CONSTRAINT
 ```MYSQL 
 ALTER TABLE mobil 
@@ -41,7 +41,7 @@ ALTER TABLE mobil
 ```
 
 HASIL:
-![GAMBAR](GAMBARBASDAT/constrain.png)
+![GAMBAR](constrain.png)
 MENGHAPUS CONSTRAINT:
 ```MYSQL 
 ALTER TABLE mobil
@@ -49,7 +49,7 @@ ALTER TABLE mobil
 ```
 
 HASIL:
-![GAMBAR](GAMBARBASDAT/dropalter.png)
+![GAMBAR](dropalter.png)
 
 MENGHAPUS KOLOM  
 ```MYSQL
@@ -57,7 +57,7 @@ ALTER TABLE mobil DROP COLUMN deadline;
 ```
 
 HASIL:
-![GAMBAR](GAMBARBASDAT/dropkolomalter.png)
+![GAMBAR](dropkolomalter.png)
 
 MENGUBAH NAMA TABEL 
 ```MYSQL
@@ -65,5 +65,5 @@ ALTER TABLE mobil RENAME TO data_mobil;
 ```
 
 HASIL:
-![GAMBAR](GAMBARBASDAT/renamealter.png)
+![GAMBAR](renamealter.png)
 
