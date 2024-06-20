@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Html/Remed Html.md",
+                "file": "Css/Remed Pesona indo.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Html/Remed Html.md",
+            "file": "Css/Remed Pesona indo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Html/Remed Html.md",
+            "file": "Css/Remed Pesona indo.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -159,7 +159,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Html/Remed Html.md"
+            "file": "Css/Remed Pesona indo.md"
           }
         }
       }
@@ -178,8 +178,10 @@
   },
   "active": "35703895c08ccb2a",
   "lastOpenFiles": [
+    "ass.md",
     "Css/Remed Pesona indo.md",
     "Html/Remed Html.md",
+    "Css/Bootstrap Framework.md",
     "Html/Catatan HTML.md",
     "Asetremed/Li.md",
     "Asetremed",
@@ -212,7 +214,6 @@
     "EKSPLORASI CSS (Grid)/Assets",
     "EKSPLORASI CSS (Grid)",
     "3. PHP - Copy/PHP Dasar.md",
-    "Css/Bootstrap Framework.md",
     "REMEDIAL BASIS DATA/Remedial.md",
     "Html/Pembuatan web.md",
     "Html/Lanjutan select.md",
@@ -220,7 +221,6 @@
     "CSS GRID.md",
     "PRAKTIKUM 7/PRAKTIKUM 7.md",
     "Html/Asset/Analisis Program ujian.md",
-    "Materi grid/CATATAN GRID.md",
     "PHP Mysql",
     "Css/Untitled",
     "assets",

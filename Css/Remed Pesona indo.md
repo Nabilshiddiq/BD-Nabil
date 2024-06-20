@@ -794,7 +794,7 @@
 ```
 
 # Hasil
-![](Assets/Pesona.jpg)
+![](assets/Pesona.jpg)
 
 # Analisis 
 ## Html
