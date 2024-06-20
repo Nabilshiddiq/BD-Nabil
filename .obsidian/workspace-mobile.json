@@ -11,10 +11,8 @@
             "id": "78c50f3198aad82c",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Materi grid/Aset/9.jpg.jpg"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -23,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REMEDIAL BASIS DATA/Remedial.md",
+                "file": "Pratikum/Tantangan.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "REMEDIAL BASIS DATA/Remedial.md",
+            "file": "Pratikum/Tantangan.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "REMEDIAL BASIS DATA/Remedial.md",
+            "file": "Pratikum/Tantangan.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "REMEDIAL BASIS DATA/Remedial.md"
+            "file": "Pratikum/Tantangan.md"
           }
         }
       }
@@ -144,46 +142,46 @@
   },
   "active": "af5d35e27fa6089a",
   "lastOpenFiles": [
-    "Pratikum/Tantangan.md",
-    "Html/Data Base 2.md",
-    "Grid css/IMG-20240414-WA0010.jpg",
-    "3. PHP - Copy/PHP Dasar.md",
-    "Css/Remed Pesona indo.md",
-    "Tgs Basisdata/PEMBELAJARAN 4.md",
+    "Css/css nabil.md",
     "Html/BASIS DATA.md",
+    "3. PHP - Copy/PHP Dasar.md",
+    "Css/Bootstrap Framework.md",
     "Instalasi & Query awal data base.md",
-    "Tgs Basisdata/PEMBELAJARAN 5.md",
-    "Html/Asset/Analisis Program ujian.md",
-    "Html/Analisis ujian.md",
+    "Html/Data Base 2.md",
+    "REMEDIAL BASIS DATA/Remedial.md",
     "Html/Pemrograman web.md",
-    "Catatan HTML.md",
+    "Html/Pembuatan web.md",
+    "Tgs Basisdata/PEMBELAJARAN 4.md",
     "Html/Lanjutan select.md",
-    "Css/Pesona.jpg.jpg",
+    "Tgs Basisdata/PEMBELAJARAN 5.md",
+    "EKSPLORASI CSS (Grid)/CSS GRID.md",
+    "CSS GRID.md",
+    "Catatan HTML.md",
+    "PRAKTIKUM 7/PRAKTIKUM 7.md",
+    "Pratikum/Tantangan.md",
+    "Html/Asset/Analisis Program ujian.md",
+    "Materi grid/CATATAN GRID.md",
+    "Html/Semantic Html.md",
+    "Css/Remed Pesona indo.md",
+    "Html/Asset/Pengantar web.md",
+    "Html/Analisis ujian.md",
+    "Html/DIV-SPAN.md",
+    "Css/PHP.md",
     "Css/PHP Mysql.md",
+    "Materi grid/Aset/9.jpg.jpg",
+    "Grid css/IMG-20240414-WA0010.jpg",
+    "Css/Pesona.jpg.jpg",
     "Pesona.jgp 1.jpg",
     "Pesona.jgp 2.jpg",
-    "Materi grid/Aset/9.jpg.jpg",
-    "Css/PHP.md",
-    "PHP Mysql/Untitled.md",
     "PHP Mysql",
     "Untitled 1",
-    "Css/css nabil.md",
     "Css/angga.jpg",
     "Css/Untitled",
-    "Css/Bootstrap Framework.md",
-    "Untitled/Grid-row-end.md",
-    "Css/Flex box.md",
-    "Css/Folder css.md",
-    "Css/Box model.md",
     "assets/laravel-7.png",
     "assets/btc-95.png",
     "assets/btc-94.png",
     "assets/btc-93.png",
     "assets",
-    "Html/Semantic Html.md",
-    "Css/Pengenalan css.md",
-    "Css/Css Responsive.md",
-    "Materi grid/CATATAN GRID.md",
     "Untitled 2",
     "Materi grid/Catatan grid/Untitled.canvas",
     "Materi grid/Catatan grid/Untitled",
