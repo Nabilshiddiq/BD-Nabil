@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Css/Remed Pesona indo.md",
+                "file": "EKSPLORASI CSS (Grid)/CSS GRID.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Css/Remed Pesona indo.md",
+            "file": "EKSPLORASI CSS (Grid)/CSS GRID.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Css/Remed Pesona indo.md",
+            "file": "EKSPLORASI CSS (Grid)/CSS GRID.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -159,7 +159,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Css/Remed Pesona indo.md"
+            "file": "EKSPLORASI CSS (Grid)/CSS GRID.md"
           }
         }
       }
@@ -178,8 +178,11 @@
   },
   "active": "35703895c08ccb2a",
   "lastOpenFiles": [
-    "ass.md",
+    "EKSPLORASI CSS (Grid)/Assets/1.png",
+    "EKSPLORASI CSS (Grid)/Assets/2.png",
+    "EKSPLORASI CSS (Grid)/CSS GRID.md",
     "Css/Remed Pesona indo.md",
+    "ass.md",
     "Html/Remed Html.md",
     "Css/Bootstrap Framework.md",
     "Html/Catatan HTML.md",
@@ -198,7 +201,6 @@
     "Remed html/Untitled.md",
     "Remed html",
     "Css/assets/Pesona.jpg",
-    "EKSPLORASI CSS (Grid)/CSS GRID.md",
     "Css/css nabil.md",
     "Pratikum/Tantangan.md",
     "Tgs Basisdata/PEMBELAJARAN 4.md",
@@ -210,7 +212,6 @@
     "EKSPLORASI CSS (Grid)/Assets/4.png",
     "EKSPLORASI CSS (Grid)/Assets/3.png",
     "EKSPLORASI CSS (Grid)/Assets/26.png",
-    "EKSPLORASI CSS (Grid)/Assets/25.png",
     "EKSPLORASI CSS (Grid)/Assets",
     "EKSPLORASI CSS (Grid)",
     "3. PHP - Copy/PHP Dasar.md",
@@ -220,7 +221,6 @@
     "Tgs Basisdata/PEMBELAJARAN 5.md",
     "CSS GRID.md",
     "PRAKTIKUM 7/PRAKTIKUM 7.md",
-    "Html/Asset/Analisis Program ujian.md",
     "PHP Mysql",
     "Css/Untitled",
     "assets",

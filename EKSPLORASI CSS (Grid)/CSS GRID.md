@@ -55,9 +55,8 @@ mempelajari CSS Grid membantu anda untuk membuat tata letak halaman web yang leb
 </html>
 ```
 #### Hasil Program
-![hasil program grid template column](EKSPLORASI%20CSS/Assets/1.png)
+![](Assets/1.png)
 
----
 ### grid-template-row
 #### Penjelasan
 `grid-template-rows` adalah properti dalam CSS Grid Layout yang digunakan untuk menentukan tinggi dari setiap baris dalam grid. Properti ini memungkinkan Anda untuk secara fleksibel mendefinisikan tinggi baris dalam grid, baik secara absolut (dalam piksel, sentimeter, dll.) atau relatif (persentase dari tinggi container atau fraksional).
@@ -91,7 +90,7 @@ mempelajari CSS Grid membantu anda untuk membuat tata letak halaman web yang leb
 </html>
 ```
 #### Hasil Program
-![hasil program grid template row](EKSPLORASI%20CSS/Assets/2.png)
+![](Assets/2.png)
 
 ---
 ### grid-auto-colums
